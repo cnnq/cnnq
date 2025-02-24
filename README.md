@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @cnnq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m @cnnq
+
+Experience in: Java / C# | OpenGL / Vulkan
+Currently learning: Rust
+
+I like: performance ✨
+Don't like: some .gov websites / JavaScript
 
 <!---
 cnnq/cnnq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
