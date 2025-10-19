@@ -3,7 +3,7 @@ I’m @cnnq
 
 Experience in:  **Java** / **C#** / **Rust** | **OpenGL** / **Vulkan**
 
-I like:  performance
+I like:  performance  
 Don't like:  some .gov websites / JavaScript
 
 <!---
